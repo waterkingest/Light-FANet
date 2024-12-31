@@ -1,0 +1,8 @@
+albumentations==1.4.24
+numpy==1.23.5
+opencv_python==4.9.0.80
+Pillow==11.0.0
+scikit_learn==1.4.2
+torch==2.3.0+cu121
+torchvision==0.18.0+cu121
+tqdm==4.66.1
